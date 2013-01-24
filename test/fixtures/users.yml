@@ -1,7 +1,5 @@
-Frank:
+frank:
   first_name: "Frank"
   last_name: "Mesa"
   profile_name: "frankmesa"
   email: "panthersfan16@hotmail.com"
-  password: "treebook"
-  password_confirmation: "treebook"
