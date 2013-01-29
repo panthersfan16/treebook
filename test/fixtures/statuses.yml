@@ -7,3 +7,7 @@ one:
 two:
   content: MyText
   user: frank
+
+three:
+  content: "frank2 status update"
+  user: frank2
