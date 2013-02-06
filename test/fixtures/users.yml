@@ -9,3 +9,9 @@ frank2:
   last_name: "Mesa2"
   profile_name: "frankmesa2"
   email: "panthersfan17@hotmail.com"
+
+mike:
+  first_name: "Mike"
+  last_name: "Frog"
+  profile_name: "mikethefrog"
+  email: "mikethefrog@gmail.com"
